@@ -20,7 +20,7 @@ In this we used the concepts of OpenCV and python to analyse various images and 
 
 Checkpoint 3 (18th July 2021)
 
-Task 7
+Task 7 (C2)
 
 In this we worked on google colab and used concepts of OpenCV and python to detect faces in images, desribe their various attributes and also added an object detection feature
 
